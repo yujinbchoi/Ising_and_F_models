@@ -263,7 +263,7 @@ if __name__ == "__main__":
     
     # plt.title('Specific Heat Capacity for for N = 10,15,20')
     # #plt.title('Energy for for N = 20,30,40')
-    # plt.xlabel('Temperautre')
+    # plt.xlabel('Temperature')
     # plt.ylabel('Specific Heat Capacity')
     # #plt.ylabel('Energy')
     
